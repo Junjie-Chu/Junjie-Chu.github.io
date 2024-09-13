@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-Currently, I am a second-year Ph.D. student at [Saarland University](https://www.uni-saarland.de/en/home.html) & [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), co-supervised by [Prof. Dr. Michael Backes](https://cispa.de/en/people/backes) and [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
+Currently, I am a second-year Ph.D. student at [Saarland University, Germany](https://www.uni-saarland.de/en/home.html) & [CISPA Helmholtz Center for Information Security, Germany](https://cispa.de/en), co-supervised by [Prof. Dr. Michael Backes](https://cispa.de/en/people/backes) and [Prof. Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
 
 ## Research Interests
 * Computational Social Science
